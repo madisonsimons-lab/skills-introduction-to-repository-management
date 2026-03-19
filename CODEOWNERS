@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @madisonsimons-lab
+/src/backend/database.py      @madisonsimons-lab
+/src/backend/routers/auth.py  @madisonsimons-lab
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @madisonsimons-lab
